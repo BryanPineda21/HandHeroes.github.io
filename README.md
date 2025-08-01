@@ -11,7 +11,6 @@
 ## Key Results <!--- do not change this line -->
 
 
-*EXAMPLE:*
 1. *Developed bidirectional ASL recognition system capable of translating ASL alphabet signs to English text      and generating visual ASL demonstrations from text input*
 2. *Achieved 93% training time optimization by transitioning from single-threaded to multi-threaded data loading (num_workers=0 to multi-core) and batch size optimization, reducing training time from 7+ hours to 30 minutes*
 3. *Trained CNN models on 87,000+ images across 29 ASL alphabet classes with robust data preprocessing and augmentation techniques*
