@@ -25,8 +25,7 @@
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) - 87,000 images across 29 classes (26 letters + space, delete, nothing), 3,000 images per class with consistent 200x200 pixel resolution*
+*Kaggle Datasets: [ASL-Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) - 87,000 images across 29 classes (26 letters + space, delete, nothing), 3,000 images per class with consistent 200x200 pixel resolution*
 
 ## Technologies Used <!--- do not change this line -->
 
